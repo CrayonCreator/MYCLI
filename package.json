@@ -1,0 +1,20 @@
+{
+  "name": "mycli",
+  "version": "1.0.0",
+  "bin": {
+    "mycli": "./bin/cli.js"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^12.5.2",
+    "ora": "^5.4.1",
+    "simple-git": "^3.27.0"
+  }
+}
